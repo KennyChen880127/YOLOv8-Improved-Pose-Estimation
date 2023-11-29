@@ -13,4 +13,4 @@ Through the use of a for loop, we can obtain each key point of the human body's 
 ### Results
 | Yellow dots indicate correction values. | Purple dots indicate correction values |
 | ------------- | ------------- |
-| ![ky](https://github.com/KennyChen880127/YOLOv8-Improved-Pose-Estimation-Code/assets/99500847/736297f3-c182-4e9e-82d8-0c089b2e57b8) | ![home](https://github.com/KennyChen880127/YOLOv8-Improved-Pose-Estimation-Code/assets/99500847/15fd064e-14a4-496b-b576-806514fb436b) |
+| ![image](https://github.com/KennyChen880127/YOLOv8-Improved-Pose-Estimation/blob/main/example_1.jpg) | ![image](https://github.com/KennyChen880127/YOLOv8-Improved-Pose-Estimation/blob/main/example_2.jpg) |
