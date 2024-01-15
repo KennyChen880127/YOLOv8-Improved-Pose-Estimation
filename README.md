@@ -1,4 +1,11 @@
-# YOLOv8-Improved-Pose-Estimation
+<div align="center">
+<h1>
+<b>
+YOLOv8-Improved-Pose-Estimation
+</b>
+</h1>
+</div>
+
 YOLOv8 is a highly innovative algorithm, where [Pose estimation](https://docs.ultralytics.com/tasks/pose/) is a research field in computer vision, a subdomain of artificial intelligence. It focuses on automatically detecting and analyzing the postures and positions of humans or animals in images or video clips. When the goal is to determine whether it's one or multiple objects, it identifies the nodes of various joints. This technology has a wide range of applications, from sports analysis, Virtual Reality, health monitoring, to monitoring worker safety and improving process management.
 
 However, due to factors such as complex body movements or environmental conditions, it is common for the key points of the human body's pose to extend beyond the body's boundaries. When merely recognizing the sequence of poses (such as requiring only the x and y-axis coordinates), the impact is relatively small. However, when using a depth camera for distance measurements of these nodes, it can result in significant distance inaccuracies.
