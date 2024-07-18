@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
 <b>
-YOLOv8-Improved-Pose-Estimation
+YOLOv8 Improved Pose Estimation
 </b>
 </h1>
 </div>
